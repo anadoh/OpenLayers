@@ -12,8 +12,8 @@ Layers: vector map, Open Street Map,  Humanitarian, Watercolor map.
 ## Screenshots
 ![Watercolor](./screen/water.png)
 !Open Street Map(./screen/osm.png)
-![Poligon Layers](./screen/poligon Layers.png)
-![Humanitarian Map](./screen/humanitarian.png)
+![Poligon_Layers](./screen/poligon Layers.png)
+![Humanitarian_Map](./screen/humanitarian.png)
 
 ## Setup
 How to run this project.
