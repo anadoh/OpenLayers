@@ -12,7 +12,7 @@ Layers: vector map, Open Street Map,  Humanitarian, Watercolor map.
 ## Screenshots
 ![Watercolor](./screen/water.png)
 ![OpenStreetMap](./screen/osm.png)
-![PoligonLayers](./screen/poligon Layers.png)
+![PoligonLayers](./screen/poligonLayers.png)
 ![HumanitarianMap](./screen/humanitarian.png)
 
 ## Setup
